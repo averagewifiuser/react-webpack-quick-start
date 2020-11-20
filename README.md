@@ -19,4 +19,3 @@ Run npm start
         - Redux-Saga | [Blog](https://www.codementor.io/@rajjeet/add-thunk-to-your-react-redux-project-for-async-actions-using-these-4-lines-of-code-11w6kntp46) | [GitHub](https://github.com/rajjeet/react-quick-start/tree/redux-saga)
 
 
->>>>>>> master
