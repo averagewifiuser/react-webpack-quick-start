@@ -10,7 +10,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-class-properties"
+    ]
+  },
   "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
     "css-loader": "^5.0.1",
     "file-loader": "^6.2.0",
     "react": "^16.14.0",
